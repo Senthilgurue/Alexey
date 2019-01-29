@@ -1,0 +1,1 @@
+This is GIS university customized mobile app source - based on Ionic 3 & Angular 5
